@@ -1,0 +1,36 @@
+Project Outline
+
+Project Options
+Option A
+
+REQUIRED:
+
+appearance, customize:
+
+font(type, color, size)
+
+margins/padding fixed/improved
+
+colors(theme the app a bit)
+
+app must run!
+
+demo (in-class or private)
+
+list your modifications/changes
+
+app logo/icon
+
+add @string resources for everything
+@ovalshape.xml
+@circle_background.xml
+@AspectRatioImageView (I ended up not using)
+
+OPTIONAL:
+
+images(size, shape, fix aspect ratio(no skewing)), flow of data(reorder the title, source, image.. could add details)
+
+link to Webpage for full article
+
+
+
